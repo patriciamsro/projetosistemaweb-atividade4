@@ -1,0 +1,61 @@
+h1 {
+    color: red;
+}
+.primeira-linha {
+    background-color: #ED9F9F;
+}
+.segunda-linha {
+    background-color: #E6E6E6;
+}
+.terceira-linha {
+    background-color: #CACB7F;
+}
+.cor-nav {
+    background-color: #F26EB7;
+}
+.cor-nav-artigo {
+    background-color: #EB9DE8;
+}
+.cor-titulo {
+    color: #A45757;
+}
+.cores-artigo {
+    background-color: #A1ECA9;
+    color: #529455;
+}
+.cor-elemento {
+    background-color: #A1A0EE ;
+}
+.cor-secao {
+    background-color: #6FBAF3;
+}
+.cor-texto-secao {
+    color:#3a84bd;
+}
+ul {
+    list-style: none;
+    padding: 0px !important;
+}
+ul li a {
+    text-decoration: none;
+}
+.barra-pesquisa {
+    text-align: center;
+    color:#3a84bd;
+}
+.cor-pesquisa {
+    background-color: #7fc2f5;
+    font-style: italic;
+    border: none;
+}
+.btn-pesquisar {
+    background-color: #7fc2f5;
+    color:#3a84bd;
+    border: none;
+}
+input::placeholder {  
+    color: #3a84bd;  
+ }
+ .voltar-topo {
+    text-align: right;
+ }
